@@ -19,6 +19,7 @@ int main(){
                         }
                 }
                 else{cout<<ch;}
-       }cout<<endl;
+       }
+       cout<<endl;
      }           
 } 
