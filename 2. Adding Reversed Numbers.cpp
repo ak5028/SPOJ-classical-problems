@@ -16,6 +16,5 @@ int main(){
                 else{x=1;cout<<c1[i];}    
         }
         cout<<endl;
- 
      }           
 } 
